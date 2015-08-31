@@ -4,6 +4,8 @@ Check this weeks dinner with the command line
 
 `$ ./dagens_ifi.py`
 
+![Screenshot](https://raw.githubusercontent.com/jarlefosen/dagens_ifi/master/img/screenshot.png)
+
 ## Setup
 
 Clone the repository
