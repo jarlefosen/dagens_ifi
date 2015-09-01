@@ -13,7 +13,7 @@ print week["week_name"]
 print week["week_date"]
 
 for day in menu:
-    print ""
-    print day["day_of_week"]
+    print "\n" + day["day_of_week"]
     for dish in day["dishes"]:
-        print "\t", dish["type"], "-", dish["name"]
+        line = "\t" + dish["type"] + "\t- " + dish["name"]
+        print line.encode("utf-8")
