@@ -10,9 +10,9 @@ Check this weeks dinner with the command line
 
 Clone the repository
 
-`$ git clone git@github.com:jarlefosen/dagens_ifi.git`
+`$ git clone https://github.com/jarlefosen/dagens_ifi.git`
 
-Make the file executable (if it isn't)
+Make the file executable
 
 `$ chmod +x dagens_ifi.py`
 
