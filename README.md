@@ -1,3 +1,8 @@
+[SIO](http://www.sio.no/) changed their website and structure in November.
+The changes broke the API, and I'll probably not fix that.
+
+**Don't use this. The menu will not be up to date**
+
 # IFI dinner
 
 Check this weeks dinner with the command line
